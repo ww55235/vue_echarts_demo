@@ -1,0 +1,23 @@
+{
+  "id": "2465066",
+  "name": "vue_echarts_demo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "722171",
+      "name": "arrow-left",
+      "font_class": "previewleft",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
+      "icon_id": "15283809",
+      "name": "arrow",
+      "font_class": "arrow",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    }
+  ]
+}
