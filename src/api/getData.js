@@ -31,3 +31,9 @@ export const getHotSell = () =>
   request({
     url: "hot"
   });
+
+// 获取库存和销量分析的数据
+export const getStock = () =>
+  request({
+    url: "stock"
+  });
